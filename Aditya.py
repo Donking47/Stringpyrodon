@@ -2,8 +2,8 @@ import os
 import pyrogram
 from pyrogram import Client
 
-api_id = 19181985
-api_hash = "a2b23ca3a1c9b5dab4bf42dda7de4e79"
+api_id = 23313487
+api_hash = "6aa6136dd5028dad918b7a81a379fcb6"
 
 try:
    os.remove("aditya.session")
